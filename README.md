@@ -1,2 +1,2 @@
 # codealpha_tasks
-Calculator
+Image Gallery 
